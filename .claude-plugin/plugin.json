@@ -1,0 +1,27 @@
+{
+  "name": "leafpad",
+  "displayName": "LeafPad",
+  "version": "1.0.0",
+  "description": "Write, publish, and refresh LeafPad blog posts from Claude Code. Connects to the LeafPad remote MCP server (OAuth) with skills for drafting posts and scheduling AI rewrites.",
+  "author": {
+    "name": "Bokimo Technologies LLP",
+    "email": "support@leafpad.io",
+    "url": "https://leafpad.io"
+  },
+  "homepage": "https://leafpad.io",
+  "repository": "https://github.com/smler-app/blogs-app",
+  "license": "MIT",
+  "keywords": [
+    "leafpad",
+    "blog",
+    "cms",
+    "seo",
+    "content",
+    "mcp",
+    "publishing"
+  ],
+  "documentationUrl": "https://leafpad.io/docs/ai/Leafpad-blog-mcp",
+  "supportUrl": "https://leafpad.io/contact",
+  "privacyPolicyUrl": "https://leafpad.io/privacy",
+  "termsOfServiceUrl": "https://leafpad.io/terms-and-condition"
+}
