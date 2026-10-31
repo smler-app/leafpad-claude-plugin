@@ -1,0 +1,24 @@
+{
+  "name": "leafpad-marketplace",
+  "description": "Official LeafPad Claude Code plugins from Bokimo Technologies LLP",
+  "owner": {
+    "name": "Bokimo Technologies LLP",
+    "email": "support@leafpad.io",
+    "url": "https://leafpad.io"
+  },
+  "plugins": [
+    {
+      "name": "leafpad",
+      "source": "./",
+      "description": "Write, publish, and refresh LeafPad blog posts via the LeafPad MCP server",
+      "version": "1.0.0",
+      "author": {
+        "name": "Bokimo Technologies LLP",
+        "email": "support@leafpad.io",
+        "url": "https://leafpad.io"
+      },
+      "homepage": "https://leafpad.io",
+      "keywords": ["leafpad", "blog", "cms", "seo", "mcp"]
+    }
+  ]
+}
