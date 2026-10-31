@@ -9,7 +9,7 @@
     "url": "https://leafpad.io"
   },
   "homepage": "https://leafpad.io",
-  "repository": "https://github.com/smler-app/blogs-app",
+  "repository": "https://github.com/smler-app/leafpad-claude-plugin",
   "license": "MIT",
   "keywords": [
     "leafpad",
@@ -23,5 +23,6 @@
   "documentationUrl": "https://leafpad.io/docs/ai/Leafpad-blog-mcp",
   "supportUrl": "https://leafpad.io/contact",
   "privacyPolicyUrl": "https://leafpad.io/privacy",
-  "termsOfServiceUrl": "https://leafpad.io/terms-and-condition"
+  "termsOfServiceUrl": "https://leafpad.io/terms-and-condition",
+  "icon": "./icon.png"
 }
