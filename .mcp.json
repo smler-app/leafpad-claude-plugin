@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "leafpad": {
+      "type": "http",
+      "url": "https://leafpad.io/mcp"
+    }
+  }
+}
+
+
+
+
+
+
+
+
